@@ -1,3 +1,5 @@
+import { Dipendente } from "./Dipendente";
+
 class Funzionario extends Dipendente{
     
     constructor (nome: string, cognome:string, ruolo:string){
