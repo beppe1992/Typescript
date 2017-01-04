@@ -3,6 +3,7 @@ export interface IPersona {
     cognome: string;
     
     saluta(): void;
+
 }
 
 
