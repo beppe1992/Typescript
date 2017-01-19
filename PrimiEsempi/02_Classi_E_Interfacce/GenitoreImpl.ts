@@ -26,6 +26,4 @@ export class GenitoreImpl implements IPersona {
     private getStringaSaluto():string{
         return 'Ciao '+ this._nome + " " + this._cognome
     }
-}this._cognome
-    }
 }
